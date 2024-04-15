@@ -22,12 +22,3 @@ Just enter the following
 
 Just enter the following 
 > http://localhost:8080/q/swagger-ui/
-
-## Running the Angular App
-
-Just enter the following
-> Run in labseq-app\labseq-front:
-
-> npm install
-
-> ng serve
